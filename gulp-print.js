@@ -23,5 +23,5 @@ function gulpPrint(format) {
     }
     return map(mapFile);
 }
-exports.default = gulpPrint;
+module.exports = gulpPrint;
 //# sourceMappingURL=gulp-print.js.map
